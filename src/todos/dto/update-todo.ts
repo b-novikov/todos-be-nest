@@ -1,4 +1,3 @@
-import { PartialType } from '@nestjs/swagger';
 import { AddTodoDto } from './add-todo';
 
 export class UpdateTodoDto extends AddTodoDto {
